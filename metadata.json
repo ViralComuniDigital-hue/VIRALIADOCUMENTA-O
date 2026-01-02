@@ -1,0 +1,8 @@
+{
+  "name": "IA Viral - Terminal de Elite",
+  "description": "Plataforma avançada Viral Comunicação Digital para geração de documentação e visuais de LED via IA.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
